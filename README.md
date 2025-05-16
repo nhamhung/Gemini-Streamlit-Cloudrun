@@ -8,8 +8,8 @@ A repository to explore Gemini GenAI models through building the following funct
 
 ### Sample app
 
-<img src="image.png" alt="Alt Text" width="300" height="200">
-<img src="image-1.png" alt="Alt Text" width="200" height="200">
+<img src="image.png" alt="Alt Text" width="500" height="300">
+<img src="image-1.png" alt="Alt Text" width="500" height="500">
 
 ### Technologies used:
 - [Google Gen AI SDK](https://googleapis.github.io/python-genai/index.html)
